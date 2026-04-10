@@ -56,12 +56,6 @@ I focus on:
 
 ---
 
-## 📊 GitHub Stats
-
-![Sajib's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajibKC\&show_icons=true)
-
----
-
 ## ⚡ Fun Fact
 
 I believe:
